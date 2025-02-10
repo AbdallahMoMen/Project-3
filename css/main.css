@@ -1667,7 +1667,6 @@ header .mega-list>ul li>a>i {
   display: flex;
   flex-direction: column;
   text-align: center;
-  min-height: 100vh;
 }
 
 @media (min-width: 991px) {
