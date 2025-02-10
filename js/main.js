@@ -1,6 +1,6 @@
 let dropDown = document.querySelector(".toggle-mega");
 let megaList = document.querySelector(".mega-list");
-let countDownDate = new Date("Feb 1,2026 23:59:59").getTime();
+let countDownDate = new Date("Feb 10,2026 23:59:59").getTime();
 
 dropDown.addEventListener("click", () => {
   megaList.classList.toggle("drop-mega");
