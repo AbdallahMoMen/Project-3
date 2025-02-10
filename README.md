@@ -1,8 +1,7 @@
 
 # Third Template 
-## 
+## Practice Template With Most CSS Feature And New CSS Properties And JavaScript Functionallity
 
-Kasper is creative one page PSD template great for portfolio,agency or any other web page
 
 
 ## Languages and Tools
@@ -18,5 +17,5 @@ Kasper is creative one page PSD template great for portfolio,agency or any other
 
 ## Screenshots
 
-![App Screenshot]([https://graphberry-imgs.imgix.net/kasper-one-page-psd-template-43.jpg?auto=compress,format&q=80&w=800](https://tinyurl.com/2d6qyr9a))
+![App Screenshot]([[https://graphberry-imgs.imgix.net/kasper-one-page-psd-template-43.jpg?auto=compress,format&q=80&w=800](https://tinyurl.com/2d6qyr9a)](https://www.awesomescreenshot.com/image/52878959?key=e884d89e6b1ee8dfc60a465cacd18979))
 
