@@ -1668,7 +1668,6 @@ header .mega-list>ul li>a>i {
   flex-direction: column;
   text-align: center;
   min-height: 100vh;
-  padding-bottom: 50px;
 }
 
 @media (min-width: 991px) {
@@ -1681,6 +1680,7 @@ header .mega-list>ul li>a>i {
   max-width: 600px;
   margin-inline: auto;
   padding-inline: 20px;
+  padding-bottom: 50px;
 }
 
 .discount .left {
@@ -1721,6 +1721,10 @@ header .mega-list>ul li>a>i {
   width: 300px;
   height: 300px;
   margin-inline: auto;
+}
+
+.discount .right {
+  flex: 100%;
 }
 
 .discount .right form {
@@ -1768,7 +1772,6 @@ header .mega-list>ul li>a>i {
 
 
 /* Ending Of Discount Style */
-
 
 /* Starting Of Footer Style */
 
